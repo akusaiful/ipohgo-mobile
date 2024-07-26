@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "890598745016",
+    "project_id": "ipoh-mobile-app",
+    "storage_bucket": "ipoh-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890598745016:android:cc13057b0a83fbe180e54d",
+        "android_client_info": {
+          "package_name": "my.gov.mbi.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890598745016-6gsp6avie3jvpqt7oc71qp8l7b7kb81n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.gov.mbi.travel",
+            "certificate_hash": "6b7ad20fa76a87091aba9172a32d8fae3164cc3c"
+          }
+        },
+        {
+          "client_id": "890598745016-ici89gh2a4ip01ssd7oj2lvob0jhklrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.gov.mbi.travel",
+            "certificate_hash": "bc83a434b900772c138d71bc7cf1662d7ce5172c"
+          }
+        },
+        {
+          "client_id": "890598745016-kd5cg17ht8qg7qsaku98ugn8unhohv1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.gov.mbi.travel",
+            "certificate_hash": "4c54198d5bc66fc0b3cf0fb8aae1332069bbb970"
+          }
+        },
+        {
+          "client_id": "890598745016-olsi8ca6kqt7m47fvg12l0lprv93ffv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.gov.mbi.travel",
+            "certificate_hash": "ba877de4be69fd3ed1cb1df05db84612b278d75b"
+          }
+        },
+        {
+          "client_id": "890598745016-4jftrijr549kd12n8d85t1v4evu540mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14CbuMOa8g5GenW8UbvKDI3qBw9CcuaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890598745016-4jftrijr549kd12n8d85t1v4evu540mv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890598745016-0oqhl8htshlqd2iibbe9ds49vkpanaet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "my.gov.mbi.travel",
+                "app_store_id": "6502320143"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

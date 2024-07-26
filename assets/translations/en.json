@@ -1,0 +1,148 @@
+{
+    
+    "welcome message" : "Explore every famous place in Ipoh and find nearby hotels and restaurants with the easiest and smartest way. Get realtime directions, estimated costs, parking, travel blogs, and more...",
+    "welcome to" : "Welcome to",
+
+    "intro-title1" : "No Matter Where You Are",
+    "intro-title2" : "Explore Nearby Stuffs",
+    "intro-title3" : "Realtime Travel Guide",
+    "intro-description1" : "Access to important information about your destination before and during your travel...",
+    "intro-description2" : "Explore nearby hotels & restaurants near every tourist spot with the easiest way...",
+    "intro-description3" : "Get directions, costs, and other travel-related stuff in one place...",
+    "get started" : "Get Started",
+
+    "explore country" : "Explore Perak",
+    "search places" : "Search Places",
+    "popular places" : "Popular Places",
+    "special state-1 places" : "Places in Sylhet",
+    "special state-2 places" : "Places in Chittagong",
+    "recently added" : "Recently Added",
+    "recommended places" : "Recommended Places",
+
+    "people like this" : "People like this",
+    "todo" : "To Do",
+    "you may also like" : "You might also like",
+    "travel guide" : "Travel Guide",
+    "nearby hotels" : "Nearby Hotels",
+    "nearby restaurants" : "Nearby Restaurants",
+    "steps" : "Steps",
+    "estimated cost = " : "Estimated Cost = ",
+    "distance = " : "Distance = ",
+    "no hotels found" : "No Hotels Found",
+    "no restaurants found" : "No Restaurants Found",
+    "we didn't find any nearby hotels in this area" : "We haven't found any nearby hotels in this area",
+    "we didn't find any nearby restaurants in this area" : "We haven't found any nearby restaurants in this area",
+    "user reviews" : "User Reviews",
+
+
+    "write a review" : "Write A Review",
+    "no internet" : "No internet commection!",
+    "no comments found" : "No comments found",
+    "be the first to comment" : "Be the first to comment",
+
+    "recently added places" : "Recently Added Places",
+    "recently places" : "Recently Added Places",
+
+
+    "search & explore" : "Search & Explore Places",
+    "recent searchs" : "Recent Search(s)",
+    "search for places" : "Search for places",
+    "search-description" :  "You haven't searched for any items yet.\n Try now - we will help you!",
+    "we have found" : "We have found",
+    "no places found" : "No places found",
+    "try again" : "Try again!",
+
+
+
+    "states" : "Travel Category",
+    "blogs" : "Travel News",
+
+
+    "bookmarks" : "Bookmarks",
+    "saved places" : "Saved Places",
+    "saved blogs" : "Saved Blogs",
+    "sign in first" : "Sign In First",
+    "sign in to save your favourite places here" : "Sign in to save your favourite places here",
+    "sign in to save your favourite blogs here" : "Sign in to save your favourite blogs here",
+    "no blogs found" : "No Blogs Found",
+    "save your favourite places here" : "Save your favourite places here",
+    "save your favourite blogs here" : "Save your favourite blogs here",
+
+
+
+    "skip" : "Skip",
+    "check your internet connection!" : "Check your internet connection!",
+    "something is wrong. please try again." : "Something is wrong. Please try again.",
+
+
+    "sign in" : "Sign In",
+    "cancel" : "Cancel",
+    
+    "no sign in title" : "Sign in first to access this feature",
+    "no sign in subtitle" : "You haven't signed in yet. Please sign in to unlock this feature",
+
+    
+    
+    "comments" : "Comments",
+    "write a comment" : "Write A Comment", 
+
+
+    
+    "no content" : "No contents found",
+    "delete?" : "Delete?",
+    "delete from database?" : "Want to delete this item?",
+    "flag this comment" : "Flag this comment",
+    "unflag this comment" : "Unflag this comment",
+    "report" : "Report",
+    "delete" : "Delete",
+    "report-info" : "Your report has been sent successfully to the admins",
+    "report-info1" : "Thanks for your report. We will repond within 24 hours.",
+    "report-guest" : "Sign In is Required!",
+    "report-guest1" : "You have to sign in to report about any comments",
+    "comment flagged" : "This comment has been flagged!",
+
+
+    "notifications" : "Notifications",
+    "notification details" : "Notification Details",
+
+
+    "profile" : "Profile",
+    "general setting" : "General Settings",
+    "login" : "Login",
+    "get notifications" : "Get Notifications",
+    "contact us" : "Contact Us",
+    "rate this app" : "Rate this app",
+    "licence" : "Licence",
+    "privacy policy" : "Privacy Policy",
+    "about us" : "About Us",
+    "logout" : "Logout",
+    "edit profile" : "Edit Profile",
+    "update profile" : "Update Profile",
+    "updated successfully" : "Updated Successfully",
+    "enter new name" : "Enter new name",
+
+    "logout title" : "Do you really want to logout from the app?",
+    "yes" : "Yes",
+    "no" : "No",
+
+    "language" : "Language",
+    "select language" : "Select Language",
+
+    "buy now" : "Purchase this app",
+    "buy now subtitle" : "Buy the full source code here and build the app for your country",
+
+    
+    "facebook": "Facebook Page",
+    "youtube": "Youtube Channel",
+    "no notifications": "No notifications found",
+    "no blogs": "No blogs found",
+
+    "security": "Security",
+    "delete-user-data": "Delete My Data & Account",
+    "account-delete-title": "Do you really want to delete your data?",
+    "account-delete-subtitle": "Your account information like profile data, bookmarks, etc will be erased from the app database and You will have to sign up again in the app to continue.",
+    "account-delete-confirm": "Yes, Delete My Account"
+
+
+
+}
